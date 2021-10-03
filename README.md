@@ -24,11 +24,8 @@ npm i
 npm run start
 ``` 
 
--Make sure to get the API key from your Spotify Developers account and change it to avoid crashed on localhost
-will Document it soon:
-```
-const AUTH_URL = " your APi key "
-```
+>Make sure to get the API key from your Spotify Developers account and change it to avoid crashed on localhost
+will Document it soon!
 
 
 ### Working Screenshot:
